@@ -1,7 +1,7 @@
 # РИС Лабораторные работы 4-6
 
-Скачать и установить [NodeJS](https://nodejs.org/en/download/) (LTS!)
+Скачать и установить <a href="https://nodejs.org/en/download/" target="_blank">NodeJS</a> (LTS!)
 
-В папке проекта: `npm install`
+В папке ввести в консоль `npm install` для загрузки библиотек.
 
-Для запуска трёх серверов: `npm run start:all`
+Для запуска трёх серверов: `npm run start:all`.
