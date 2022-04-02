@@ -1,7 +1,9 @@
 # РИС Лабораторные работы 4-6
 
-Скачать и установить <a href="https://nodejs.org/en/download/" target="_blank">NodeJS</a> (LTS!)
+Скачать и установить [NodeJS](https://nodejs.org/en/download/) (LTS!)
 
 В папке ввести в консоль `npm install` для загрузки библиотек.
+
+Создать базы данных в MSSQL, заполнить данные для подключения в файлах DB_Handler.js.
 
 Для запуска трёх серверов: `npm run start:all`.
